@@ -29,7 +29,7 @@ def preprocess_image(image_path):
     return processed_image
 
 # 调用函数，传入图像路径
-image_path = '../data_pic/1.jpg'
+image_path = '../data_pic/2.jpg'
 processed_image = preprocess_image(image_path)
 
 # 显示预处理后的图像（调试用）
